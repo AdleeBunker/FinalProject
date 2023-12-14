@@ -1,0 +1,86 @@
+body{
+    background-color: white;
+
+}
+
+.tableaustyle{
+    display:block;
+    margin:0;
+    border: 2px solid black;
+}
+
+.header{
+  position: relative;
+  margin-bottom: 3rem;
+  padding-top: calc(8rem + 57px);
+  padding-bottom: 8rem;
+  background: no-repeat center center;
+  background-image:url(https://t3.ftcdn.net/jpg/03/10/30/60/360_F_310306078_aG08V6D0INRPClCbnPQNiJxZyTA7wWsM.jpg);
+  background-size: cover;
+  background-attachment: scroll;
+  text-align: center;
+  color: rgb(159, 159, 159);
+  font-family:Verdana, Tahoma, sans-serif;
+}
+
+.mainbody{
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px;
+    font-family:Verdana, Tahoma, sans-serif;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.break{
+    background-color: black;
+    height: 5px;
+}
+
+.olbig {
+    text-align: center;
+    padding-left: 0;
+  }
+  
+.libasic {
+    margin-left:0%;
+    list-style-position: inside;
+    padding-left:50px ;
+    padding-right: 50px;
+    padding-bottom: 20px;
+  }
+.inline{
+    width: 100%;
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 20px;
+    color: grey;
+    text-align: center;
+    padding-top: 15px;
+    background-color:black;
+    font-family:Verdana, Tahoma, sans-serif;
+}
+
+a{color:rgb(159, 159, 159);}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+    font-family:Verdana, Tahoma, sans-serif;
+  }
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: auto;
+}
+
